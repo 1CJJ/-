@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>计算机科学与技术导论</title>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+    <!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<div style="background-color: beige">
+    <p style="color: darkturquoise">计算机各课程之间的关系图</p>
+<img src="./images/a.jpg" alt="无法显示" width="44%">
+<br>
+<br>
+<p style="color: cadetblue">下面是有关计算机的学习资料</p>
+<ol class="breadcrumb">
+    <li><a href="https://www.xuetangx.com/course/CAU08091000590/10322659">大学计算机导论</a></li>
+    <li><a href="https://www.xuetangx.com/course/THU08091002048/10322575">清华大学数据结构C++</a></li>
+    <li><a href="https://www.bilibili.com/video/BV1JV411t7ow">计算机网络</a></li>
+    <li><a href="https://www.bilibili.com/video/BV1iW411d7hd">计算机系统</a></li>
+    <li><a href="https://github.com/tongtzeho/PKUCourse">北京大学计算机课程作业资料</a></li>
+</ol>
+<br>
+<b>大一新生对计算机专业浅薄的看法:</b>
+<p class="navbar-text" style="color: mediumturquoise">计算机专业是一门研究信息是<strong>如何表示和存储、如何发送和接收、如何处理分析</strong>。信息的概念很广，它可以包含我们人类能感知的信号（比如图像、声音、文字）和人类不能感知的信号（无线信号）。计算机还研究什么问题是可以计算的，什么问题是不可以计算的，什么问题是可以有效解决的，什么问题是目前无法解决的。<em>对于目前的我来说，计算机是一座拥有无尽矿藏的宝库，等着我去学习，去探索，去发现！</em>></p>
+<br>
+<br>
+<table border="2">
+    <tr>
+        <td>时间</td>
+        <td>目标</td>
+        <td>规划</td>
+    </tr>
+    <tr>
+        <td>大一</td>
+        <td>大类前30%</td>
+        <td>多读书多看报</td>
+    </tr>
+    <tr>
+        <td>大二</td>
+        <td>专业前33%</td>
+        <td>稍微卷一年</td>
+    </tr>
+    <tr>
+        <td>大三</td>
+        <td>争取保研</td>
+        <td>好好学习！</td>
+    </tr>
+    <tr>
+        <td>大四</td>
+        <td>好好找个<strong>女朋友</strong></td>
+        <td>多实习，多学习！</td>
+    </tr>
+</table>
+</div>
+
+</body>
+</html>
